@@ -1,0 +1,15 @@
+{
+  "name": "auditoria-estoque-assincrona",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/auditoria.js",
+    "dev": "tsx auditoria.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "tsx": "^4.20.0",
+    "typescript": "^5.9.0"
+  }
+}

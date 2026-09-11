@@ -1,0 +1,23 @@
+{
+  "valorTotalEstoque": 19900,
+  "produtosCriticos": [
+    {
+      "id": 1,
+      "nome": "Notebook",
+      "preco": 3500,
+      "quantidade": 3
+    },
+    {
+      "id": 3,
+      "nome": "Teclado",
+      "preco": 250,
+      "quantidade": 4
+    },
+    {
+      "id": 5,
+      "nome": "Headset",
+      "preco": 300,
+      "quantidade": 2
+    }
+  ]
+}

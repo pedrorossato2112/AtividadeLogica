@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nome": "Notebook",
+    "preco": 3500,
+    "quantidade": 3
+  },
+  {
+    "id": 2,
+    "nome": "Mouse",
+    "preco": 120,
+    "quantidade": 10
+  },
+  {
+    "id": 3,
+    "nome": "Teclado",
+    "preco": 250,
+    "quantidade": 4
+  },
+  {
+    "id": 4,
+    "nome": "Monitor",
+    "preco": 1100,
+    "quantidade": 6
+  },
+  {
+    "id": 5,
+    "nome": "Headset",
+    "preco": 300,
+    "quantidade": 2
+  }
+]
